@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/home/rudolffortes/Digital_Design/digital-design/Alarm_system/tb_Alaram_system_isim_beh3.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="std_logic_1164" />
+            <top_module name="tb_alaram_system" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="9" />
+   <wvobject fp_name="/tb_alaram_system/enable" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">enable</obj_property>
+      <obj_property name="ObjectShortName">enable</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_alaram_system/exiting" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">exiting</obj_property>
+      <obj_property name="ObjectShortName">exiting</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_alaram_system/window" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">window</obj_property>
+      <obj_property name="ObjectShortName">window</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_alaram_system/door" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">door</obj_property>
+      <obj_property name="ObjectShortName">door</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_alaram_system/garage" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">garage</obj_property>
+      <obj_property name="ObjectShortName">garage</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_alaram_system/secure" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">secure</obj_property>
+      <obj_property name="ObjectShortName">secure</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_alaram_system/triggered" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">triggered</obj_property>
+      <obj_property name="ObjectShortName">triggered</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_alaram_system/panic" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">panic</obj_property>
+      <obj_property name="ObjectShortName">panic</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_alaram_system/alarm" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">alarm</obj_property>
+      <obj_property name="ObjectShortName">alarm</obj_property>
+   </wvobject>
+</wave_config>

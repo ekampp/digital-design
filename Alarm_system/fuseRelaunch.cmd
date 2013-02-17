@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/rudolffortes/Digital_Design/digital-design/Alarm_system/tb_Alaram_system_isim_beh.exe" -prj "/home/rudolffortes/Digital_Design/digital-design/Alarm_system/tb_Alaram_system_beh.prj" "work.tb_Alaram_system" 

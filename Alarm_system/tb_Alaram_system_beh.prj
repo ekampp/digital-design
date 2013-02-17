@@ -1,0 +1,2 @@
+vhdl work "Alarm_system.vhd"
+vhdl work "tb_Alaram_system.vhd"

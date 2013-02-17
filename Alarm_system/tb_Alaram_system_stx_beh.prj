@@ -1,0 +1,2 @@
+vhdl isim_temp "Alarm_system.vhd"
+vhdl isim_temp "tb_Alaram_system.vhd"

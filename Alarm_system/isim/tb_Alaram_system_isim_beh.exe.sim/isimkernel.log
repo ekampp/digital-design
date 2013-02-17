@@ -1,0 +1,29 @@
+Command line:
+   tb_Alaram_system_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54788
+
+Wed Feb 13 11:19:17 2013
+
+
+ Elaboration Time: 0.02 sec
+
+ Current Memory Usage: 182.166 Meg
+
+ Total Signals          : 18
+ Total Nets             : 11
+ Total Signal Drivers   : 11
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 6
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 371
+Total Line Count : 77
+
+ Total Simulation Time: 0.02 sec
+
+ Current Memory Usage: 257.667 Meg
+
+Wed Feb 13 11:19:37 2013
+

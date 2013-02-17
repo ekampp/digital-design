@@ -1,0 +1,6 @@
+AUTO_TS_P2P:FROM:Enable:TO:Alarm:1
+AUTO_TS_P2P:FROM:Panic:TO:Alarm:1
+AUTO_TS_P2P:FROM:Exiting:TO:Alarm:1
+AUTO_TS_P2P:FROM:Window:TO:Alarm:1
+AUTO_TS_P2P:FROM:Garage:TO:Alarm:1
+AUTO_TS_P2P:FROM:Door:TO:Alarm:1

@@ -1,0 +1,33 @@
+Pin Freeze File:  version P.49d
+
+2C256144 XC2C256-6-TQ144
+Door S:PIN142
+Enable S:PIN140
+Exiting S:PIN139
+Garage S:PIN138
+Panic S:PIN137
+Window S:PIN2
+Alarm S:PIN143
+
+
+;The remaining section of the .gyd file is for documentation purposes only.
+;It shows where your internal equations were placed in the last successful fit.
+
+PARTITION FB1_3 Alarm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
